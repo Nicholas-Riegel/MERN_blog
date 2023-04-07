@@ -3,12 +3,19 @@
 A MERN stack blog displaying full CRUD operations with Bootstrap styling.
 
 Dependencies: 
-
-Frontend: react, react-router-dom, axios, react-bootstrap, concurrently.
-
-Backend: cors, dotenv, express, mongoose
+* React 
+* React-router-dom 
+* Axios 
+* React-bootstrap 
+* Concurrently
+* cors 
+* dotenv 
+* express 
+* mongoose
 
 To run: 
 
-cd into frontend
-npm run start
+1. Download project files
+2. npm install
+3. cd into frontend
+4. npm start
