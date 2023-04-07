@@ -7,11 +7,15 @@ export default function Nav() {
         <Link
           to='/'
           className='text-decoration-none'
-          ><h1 className='display-6 text-info'>Blog</h1></Link>
+        >
+          <h1 className='display-6 text-info'>Blog</h1>
+        </Link>
         <Link
           to='/create'
           className='text-decoration-none'
-        ><h1 className='display-6 text-info'>Create New Post</h1></Link>
+        >
+          <h1 className='display-6 text-info'>Create New Post</h1>
+        </Link>
       </div>      
     </nav>
   )
